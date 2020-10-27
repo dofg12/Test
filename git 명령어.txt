@@ -1,0 +1,6 @@
+git clone 깃허브주소
+git status - 깃상태보기
+git add 파일명
+git commit -m "커밋메세지"
+git push 깃허브에 올리기
+git pull 깃허브에서 컴퓨터 다운 
